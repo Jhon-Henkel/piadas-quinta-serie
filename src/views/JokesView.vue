@@ -22,7 +22,6 @@ export default {
                 'Vamos apostar? Mil meu com mil seu',
                 'Se eu passar roupa, você leva o ferro?',
                 'Qual é o aumentativo de dacueba?',
-                ''
 
             ];
             this.joke = jokes[Math.floor(Math.random() * jokes.length)];
